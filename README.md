@@ -1,6 +1,6 @@
 ## Objective
 
-create a program executable from the command line that when given text(s) will return 100 of most common three word sequences in descending order of frequency.
+Create a program executable from the command line that when given text(s) will return 100 of most common three word sequences in descending order of frequency.
 
 ## Prerequisites
 
