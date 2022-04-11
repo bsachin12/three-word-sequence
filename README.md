@@ -18,4 +18,9 @@ py word-sequence.py src/test/resources/mobydick.txt <br />
 
 ## Docker
 
+#Build the Docker Image
+docker build three-word-sequences . <br />
 
+#Run Docker image <br />
+
+docker run -it --rm --name running-sequences three-word-sequences
