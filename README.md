@@ -25,3 +25,7 @@ docker build three-word-sequences . <br />
 #Run Docker image <br />
 
 docker run -it --rm --name running-sequences three-word-sequences
+
+## Known Bugs/Issues
+
+Lack of Unicode support.
