@@ -13,12 +13,13 @@ git clone https://github.com/bsachin12/three-word-sequences.git
 
 ## Running the application
 
-py word-sequence.py src/test/resources/mobydick.txt <br />
+py src/word-sequence.py src/test/resources/mobydick.txt <br />
 
 
 ## Docker
 
 #Build the Docker Image <br />
+
 docker build three-word-sequences . <br />
 
 #Run Docker image <br />
