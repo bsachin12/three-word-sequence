@@ -11,7 +11,7 @@ except OSError:
 
 def open_file():     
    # Accept a file in command line
-   # Syntax: py words.py file_name.txt        
+   # Syntax: py word-sequence.py file_name.txt        
    with open(sys.argv[1], 'r') as raw:
     read_text = raw.read().lower()
     return read_text        
